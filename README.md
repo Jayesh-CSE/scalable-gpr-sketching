@@ -51,11 +51,7 @@ pip install -r requirements.txt
 
 ## ▶️ Running Experiments
 
-```bash
-python experiments/run_protein.py
-```
 
-You can modify configurations in the `configs/` folder to run different datasets and settings.
 
 ---
 
