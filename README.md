@@ -71,7 +71,7 @@ If you find this work useful, please consider citing:
   year={2026}
 }
 ```
-We will update the repository soon with more clean and complete codebase. 
+We will update this repository shortly with a clean, well-documented, and complete codebase. 
 ---
 
 ## 📜 License
