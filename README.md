@@ -1,5 +1,6 @@
-# scalable-gpr-sketching
-Scalable Gaussian Process Regression via ridge leverage score sketching with theoretical guarantees. Provides efficient approximation of predictive mean, variance, and marginal likelihood, with strong empirical performance on large-scale datasets.
+```
+We will update this repository shortly with a clean, well-documented, and complete codebase. 
+---
 
 # Sketch-GPR: Scalable Gaussian Process Regression via Sketching
 
@@ -9,6 +10,9 @@ Scalable Gaussian Process Regression via ridge leverage score sketching with the
 *Jayesh Malaviya, Rachit Chhaya, Anirban Dasgupta, Supratim Shit*
 
 Published in **Transactions on Machine Learning Research (TMLR), 2026**
+
+# scalable-gpr-sketching
+Scalable Gaussian Process Regression via ridge leverage score sketching with theoretical guarantees. Provides efficient approximation of predictive mean, variance, and marginal likelihood, with strong empirical performance on large-scale datasets.
 
 ---
 
@@ -60,15 +64,16 @@ pip install -r requirements.txt
 If you find this work useful, please consider citing:
 
 ```bibtex
-@article{malaviya2026sketchgpr,
-  title={On Sketching for Gaussian Process Regression with New Statistical Guarantees},
-  author={Malaviya, Jayesh and Chhaya, Rachit and Dasgupta, Anirban and Shit, Supratim},
-  journal={Transactions on Machine Learning Research},
-  year={2026}
+@article{
+malaviya2026on,
+title={On Sketching for Gaussian Process Regression with New Statistical Guarantees},
+author={Jayesh Malaviya and Rachit Chhaya and Anirban Dasgupta and Supratim Shit},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2026},
+url={https://openreview.net/forum?id=NmwrhyuVEu},
+note={}
 }
-```
-We will update this repository shortly with a clean, well-documented, and complete codebase. 
----
 
 ## 📜 License
 
